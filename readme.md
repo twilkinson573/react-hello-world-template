@@ -4,6 +4,9 @@ I'm always looking for ways to **Skip To The Good Bit™**.
 
 This is a starter template to quickly bootstrap new React projects without trying to copy one of your old setups or re-configuring webpack for the millionth time.
 
+* Bootstrap is provided via a CDN link
+* webpack-dev-server will hot-reload changes
+
 ## Getting Started
 
 1. Ensure you have npm & Node installed.
@@ -20,7 +23,7 @@ This is a starter template to quickly bootstrap new React projects without tryin
   $ npm start
   ```
 
-4. Go to `localhost:8080` in a web browser and your app will be waiting for you. Any changes you make will be hot reloaded in the browser.
+4. Go to `localhost:8080` in a web browser and your app will be waiting for you. Any changes you make will auto-update in the browser.
 
 That's it!
 
